@@ -1,14 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #f3d2ea;
+    background-color: #e5e5e3;
 }
 header {
     display: flex;
     justify-content: space-between;
-    background-color: #d4b8cc;
-    font-size: 3rem;
-    color: black;
+    font-size: 2.5rem;
+    color: lch(96.51% 0.5 109.99);
     text-align: left;
     padding: 20px;
     font-size: 55px;
@@ -46,14 +45,16 @@ header h1 {
 .about h2{
     text-align: left;
     margin: 20px;
-    color:#020718;
+    color: #bdd6dd;
     margin-bottom:0px;
     font-size: 2rem;
+    font-style: italic;
+    
 }
 
 
 .projects {
-    border-left: 4px solid #3f0f0f;
+    border-left: 4px solid #ceebc4;
     padding-left: 10px;
     margin-left: 20px;
     margin-bottom: 15px;
@@ -62,7 +63,7 @@ header h1 {
 
     text-align: left;
     margin-left: 25px;
-    color:#020718;
+    color:#bbc3df;
     margin-bottom:5px;
     font-size: 2rem;
 
