@@ -54,11 +54,13 @@ header h1 {
 .projects {
     border-left: 4px solid #333;
     padding-left: 10px;
+    margin-left: 9px;
     margin-bottom: 15px;
 }
 .projects h2{
 
-    text-align: center;
+    text-align: left;
+    margin-left: 15px;
     color:#020718;
     margin-bottom:5px;
     font-size: 2rem;
@@ -104,7 +106,7 @@ header h1 {
   background-color: #1e40af;
 }
 .project-image {
-  width: 100%;
+  width: 150px;
   height: 180px;   
   overflow: hidden;
   border-radius: 8px;
