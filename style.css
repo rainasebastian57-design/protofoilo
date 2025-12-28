@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin: 20px;
     background-color: #f4f4f4;
 }
 header {
     display: flex;
     justify-content: space-between;
-    background-color: #f5efef;
+    background-color: #d4b8cc;
     font-size: 3rem;
     color: black;
     text-align: left;
@@ -29,11 +29,11 @@ header h1 {
     height: 100px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid #f0f0f0;
+    border: 5px solid #d4a1cc;
     
 }
 .about {
-    background-color: white;
+    background-color: rgb(202, 154, 177);
     margin: 40px;
     padding: 30px;
     border-radius: 12px;
