@@ -11,7 +11,7 @@ header {
     color: black;
     text-align: left;
     padding: 20px;
-    font-size: 75px;
+    font-size: 55px;
     font-family: Arial, sans-serif;
     
 
@@ -19,7 +19,7 @@ header {
 header h1 {
     margin: 2px;
     font-family :  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 3.5rem;
+    font-size: 4.5rem;
     font-weight: bold;
     color:rgb(7,7,47)}
 .header-image {
@@ -52,15 +52,15 @@ header h1 {
 
 
 .projects {
-    border-left: 4px solid #333;
+    border-left: 4px solid #3f0f0f;
     padding-left: 10px;
-    margin-left: 9px;
+    margin-left: 20px;
     margin-bottom: 15px;
 }
 .projects h2{
 
     text-align: left;
-    margin-left: 15px;
+    margin-left: 25px;
     color:#020718;
     margin-bottom:5px;
     font-size: 2rem;
