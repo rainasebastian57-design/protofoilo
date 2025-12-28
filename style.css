@@ -32,7 +32,6 @@ header h1 {
     
 }
 .about {
-    background-color: rgb(211, 198, 205);
     margin: 15px;
     padding: 30px;
     border-radius: 12px;
@@ -78,8 +77,8 @@ header h1 {
 
 .skills{
 
-    background-color: white;
-    margin: 40px;
+    
+    margin: 35px;
     padding: 30px;
     border-radius: 12px;
     font-size: medium;
@@ -87,7 +86,7 @@ header h1 {
     line-height:1.8;
 
 }
-.skills h2{text-align: center;
+.skills h2{margin: 25px;
     color:#020718;
     margin-bottom:5px;
     font-size: 2rem;
